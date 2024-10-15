@@ -10,7 +10,8 @@ Ajoutez le fichier JavaScript nécessaire dans votre page HTML :
 <script src="path/to/searchable-select.js"></script>
 ```
 
-###2. Ajouter la classe "searchable-select"
+### 2. Ajouter la classe "searchable-select"
+
 Ajoutez la classe searchable-select aux éléments <select> que vous souhaitez rendre recherchables :
 
 ```html
