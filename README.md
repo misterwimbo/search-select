@@ -22,3 +22,4 @@ Ajoutez la classe searchable-select aux éléments <select> que vous souhaitez r
   <option value="3">Option 3</option>
 </select>
 ```
+
