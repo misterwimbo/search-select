@@ -2,10 +2,8 @@
 
 Pour faciliter la sélection dans les listes d'options longues, vous pouvez ajouter une fonctionnalité de recherche à vos sélecteurs Bootstrap 5. Voici comment procéder :
 
-
-
-Ajoutez le fichier JavaScript nécessaire dans votre page HTML :
-Ajoutez la classe searchable-select aux éléments <select> que vous souhaitez rendre recherchables :
+1. **Ajoutez le fichier JavaScript nécessaire dans votre page HTML**
+2. **Ajoutez la classe `searchable-select` aux éléments `<select>` que vous souhaitez rendre recherchables**
 
 ```html
 <script src="path/to/searchable-select.js"></script>
@@ -16,8 +14,3 @@ Ajoutez la classe searchable-select aux éléments <select> que vous souhaitez r
   <option value="2">Option 2</option>
   <option value="3">Option 3</option>
 </select>
-
-```
-
-
-
